@@ -1,5 +1,7 @@
 # Amazon Title Quality Prediction Model
 
-Amazon is well known for its varied quality in its products -- while it often shelves reputable brands who've built their recognition through years of good products and service, it is no stranger to copycats emerging with unbelievably low pricing, predatorily enticing the average consumer to purchasing cheaper and often shoddy recreations. This project aims to find a correlation between product titles and lower reviews -- such a model can potentially be used on newly added unreviewed items to push more legitimate or reputable products to Amazon's forefront.
+Amazon is well known for its varied quality and quantity in its products -- while it often shelves reputable brands who've built their recognition through years of good products and service, it is no stranger to copycats emerging with unbelievably low pricing, predatorily enticing the average consumer to purchasing cheaper and often shoddy recreations. 
+
+This project aims to find a correlation between product titles and lower reviews. Such a model could be used to identify newly added, unreviewed items, helping to promote more legitimate or reputable products to the forefront on Amazon. Additionally, the model can enhance product recommendation systems by analyzing the relationship between product titles and review scores. This would improve recommendation accuracy by prioritizing items with higher review ratings and better descriptions, leading to a more satisfying shopping experience for consumers and increasing the visibility of high-quality products in recommendation algorithms.
 
 Please find the source dataset at the website linked below: https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products?select=amazon_products.csv
